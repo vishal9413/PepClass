@@ -24,4 +24,16 @@ li a:hover {
 #logo
 {
 	float: right;
+
+	
+}
+.footer
+{
+	 position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color:#283835;
+   color: white;
+   text-align: center;
 }
